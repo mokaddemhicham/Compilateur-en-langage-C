@@ -1,0 +1,10 @@
+Variable A   Entier ;
+var B : Entier ;
+Lire ( A ) ;
+Lir (  B ) ;
+Si ( A  B ) Alors 
+     Ecrire ( A ) ;
+Sinon 
+     Ecrire ( B ) ;
+FinSi ;
+Fin . 
