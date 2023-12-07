@@ -52,3 +52,22 @@ Le concept de ce projet est de réaliser un programme qui vérifie l'analyse Lex
 > : <br/>
 > Fin <br/>
 > . <br/>
+
+## Collaboration et Contribution
+
+Je vous encourage vivement à collaborer et à contribuer à ce projet. Si vous souhaitez vous impliquer, voici comment vous pouvez participer :
+
+- **Améliorations et Corrections :** Si vous avez des idées d'améliorations, de fonctionnalités supplémentaires ou si vous avez repéré des erreurs, n'hésitez pas à ouvrir des issues sur le dépôt GitHub. Je suis ouvert aux discussions et aux suggestions de la communauté.
+
+- **Contributions de Code :** Si vous êtes intéressé par le développement de code, je vous invite à proposer des pull requests. Vos contributions seront examinées attentivement et peuvent être intégrées au projet.
+
+- **Rapports de Problèmes :** Si vous rencontrez des problèmes lors de l'utilisation de ce projet, veuillez les signaler en ouvrant des rapports de problèmes sur GitHub. Cela m'aidera à identifier et à résoudre rapidement les problèmes.
+
+- **Documentation :** Une documentation claire et précise est essentielle. Si vous pouvez contribuer à améliorer la documentation en fournissant des exemples d'utilisation, des guides d'installation ou toute autre information utile, cela serait grandement apprécié.
+
+- **Test et Retours d'Expérience :** Si vous avez testé ce projet dans différents environnements ou configurations, partagez vos retours d'expérience. Cela peut être précieux pour d'autres utilisateurs.
+
+Pour collaborer avec moi, rendez-vous sur le dépôt GitHub [[lien vers le dépôt](https://github.com/mokaddemhicham/Compilateur-en-langage-C)] et explorez les options de contribution. Votre engagement et vos contributions sont essentiels pour faire de ce projet une ressource de qualité pour la communauté. Je vous remercie pour votre intérêt et votre soutien continu.
+
+## Copyright
+© 2023 [Hicham Mokaddem](https://mokaddemhicham.tech). Tous droits réservés.
